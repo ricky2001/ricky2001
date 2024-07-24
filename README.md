@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Sai Ricky
 - 👀 I’m interested in Dev.
 - 🌱 I’m currently fresh graduate of SE
-- 📫 How to reach me linkid: www.linkedin.com/in/sai-ricky-chan-3264a0288, saireacky@gmail.com
 
 <details>
   <summary>Table of Contents</summary>
@@ -28,7 +27,7 @@
 
 
 
-<!-- ABOUT THE PROJECT -->
+
 ## About The Project
 
   Loyalty is important with a company to make employees comfortable and happy while doing work and the interaction among employees is important too. So with the hybrid mode that employees work their job sometime in home or company, that may make the problem about loyalty with  employees less interaction among employees.With the benefit that employees in the company are rewarded for their more interactions, they are more loyalty and may be able to focus their job better and challenging the employee with a check in work so the employee can check in and get reward by collect check in stack. 
