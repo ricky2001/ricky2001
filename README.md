@@ -287,9 +287,8 @@ ID:6331305048 Mr. Sai Reacky (Loyalty Program group)
 <!-- CONTACT -->
 ## Contact
 
-Email Adress - 6331305007@lamduan.mfu.ac.th - 6331305023@lamduan.mfu.ac.th
-
-[![LinkedIn]][linkedin-url]
+Email Adress - [![Gmail]][gmail-url]
+My LinkedIn - [![LinkedIn]][linkedin-url]
 
 <p align="right">(<a href="#about-the-project">back to top</a>)</p>
 
@@ -315,4 +314,6 @@ Email Adress - 6331305007@lamduan.mfu.ac.th - 6331305023@lamduan.mfu.ac.th
 [Firebase-url]: https://console.firebase.google.com/u/1/project/loyalty-e5fdd/overview
 [LinkedIn]:https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 [linkedin-url]:https://www.linkedin.com/in/sai-ricky-chan-3264a0288
+[Gmail]: https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+[gmail-url]: saireacky@gmail.com
 
