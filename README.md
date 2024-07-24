@@ -68,6 +68,8 @@ Languages and Tools I used to use.
 
 [![NetBeans][NetBeans]][NetBeans-url]
 
+[![Eclipse][Eclipse]][Eclipse-url]
+
 
 
 <!-- GETTING STARTED -->
@@ -312,6 +314,8 @@ My LinkedIn - [![LinkedIn]][linkedin-url]
 
 <!-- MARKDOWN LINKS & IMAGES -->
 
+[Eclipse]: https://img.shields.io/badge/Eclipse%20IDE-2C2255?logo=eclipseide&logoColor=fff&style=flat
+[Eclipse-url]: https://eclipseide.org/
 [NetBeans]: https://img.shields.io/badge/Apache%20NetBeans%20IDE-1B6AC6?logo=apachenetbeanside&logoColor=fff&style=flat
 [NetBeans-url]: https://netbeans.apache.org/front/main/index.html
 [TypeScript]: https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square
