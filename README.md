@@ -39,7 +39,7 @@
 
 Languages and Tools I used to use.
 
-| 1 | Description                       | Status    |
+| [Tailwind CSS] | [Tailwind CSS] | Status    |
 |---------------|-----------------------------------|-----------|
 | 2 | 3 | Complete  |
 | 4 | 5 | In progress |
