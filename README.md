@@ -100,7 +100,7 @@ In backend folder, you have to create `.env` file that contain the api key from 
   RESEND_API="your resend apik key"
   ```
 
-<p align="right">(<a href="#hi">back to top</a>)</p>
+<p align="right">(<a href="#hello">back to top</a>)</p>
 
 
 
