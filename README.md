@@ -39,7 +39,7 @@
 
 Languages and Tools I used to use.
 
-| [Tailwind CSS][Tailwind] | [Tailwind CSS][Tailwind] | [Tailwind CSS][Tailwind]    |
+| [![Tailwind CSS][Tailwind]][Tailwind-url] | [![Tailwind CSS][Tailwind]][Tailwind-url] | [![Tailwind CSS][Tailwind]][Tailwind-url] |
 |---------------|-----------------------------------|-----------|
 | 2 | 3 | Complete  |
 | 4 | 5 | In progress |
