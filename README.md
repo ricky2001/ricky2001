@@ -60,7 +60,7 @@ Languages and Tools I used to use.
 
 [![c++][c++]][c++-url]
 
-[![JAVA][java]][java-url]
+[![JAVA][JAVA]][JAVA-url]
 
 
 
@@ -306,8 +306,8 @@ My LinkedIn - [![LinkedIn]][linkedin-url]
 
 <!-- MARKDOWN LINKS & IMAGES -->
 
-[java]: https://www.java.com/en/
-[java-url]: https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white
+[JAVA]: https://www.java.com/en/
+[JAVA-url]: https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white
 [c++-url]: https://cplusplus.com/doc/tutorial/
 [c++]: https://img.shields.io/badge/-C++-blue?logo=cplusplus
 [Node.js]: https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white
