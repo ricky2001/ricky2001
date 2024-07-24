@@ -39,7 +39,7 @@
 
 Languages and Tools I used to use.
 
-| Feature        Description                       | Status    |
+| Feature        | Description                       | Status    |
 |---------------|-----------------------------------|-----------|
 | Authentication| User login and registration       | Complete  |
 | Database      | MongoDB integration               | In progress |
