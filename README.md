@@ -42,7 +42,7 @@ Languages and Tools I have been to use.
 <!-- CONTACT -->
 ## Contact
 
-Email Adress - [![Gmail]][gmail-url]
+Email Adress - [![Gmail]][gmail-url] or 
 
 My LinkedIn - [![LinkedIn]][linkedin-url]
 
