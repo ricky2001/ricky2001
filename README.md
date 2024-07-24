@@ -74,6 +74,8 @@ Languages and Tools I used to use.
 
 [![Vuetify][Vuetify]][Vuetify-url]
 
+[![Vue.js][Vue.js]][Vue.js-url]
+
 
 
 <!-- GETTING STARTED -->
@@ -318,6 +320,8 @@ My LinkedIn - [![LinkedIn]][linkedin-url]
 
 <!-- MARKDOWN LINKS & IMAGES -->
 
+[Vue.js]: https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff&style=flat
+[Vue.js-url]: https://vuejs.org/
 [Vuetify]: https://img.shields.io/badge/Vuetify-1867C0?logo=vuetify&logoColor=fff&style=flat
 [Vuetify-url]: https://vuetifyjs.com/en/
 [VisualStudioCode]: https://img.shields.io/badge/Visual%20Studio%20Code-1B6AC6?logo=apachenetbeanside&logoColor=fff&style=flat](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=plastic
