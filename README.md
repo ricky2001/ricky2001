@@ -66,6 +66,8 @@ Languages and Tools I used to use.
 
 [![TypeScript][TypeScript]][TypeScript-url]
 
+[![NetBeans][NetBeans]][NetBeans-url]
+
 
 
 <!-- GETTING STARTED -->
@@ -310,6 +312,8 @@ My LinkedIn - [![LinkedIn]][linkedin-url]
 
 <!-- MARKDOWN LINKS & IMAGES -->
 
+[NetBeans]: https://img.shields.io/badge/Apache%20NetBeans%20IDE-1B6AC6?logo=apachenetbeanside&logoColor=fff&style=flat
+[NetBeans-url]: https://netbeans.apache.org/front/main/index.html
 [TypeScript]: https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square
 [TypeScript-url]: https://www.typescriptlang.org/
 [JavaScript]: https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square
