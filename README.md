@@ -82,6 +82,16 @@ Languages and Tools I used to use.
 
 [![Lucid][Lucid]][Lucid-url]
 
+[![Wix][Wix]][Wix-url]
+
+[![XAMPP][XAMPP]][XAMPP-url]
+
+[![HTML5][HTML5]][HTML5-url]
+
+[![CSS3][CSS3]][CSS3-url]
+
+[![Bootstrap][Bootstrap]][Bootstrap-url]
+
 
 
 <!-- GETTING STARTED -->
@@ -326,6 +336,16 @@ My LinkedIn - [![LinkedIn]][linkedin-url]
 
 <!-- MARKDOWN LINKS & IMAGES -->
 
+[Bootstrap]: https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff&style=flat
+[Bootstrap-url]: https://getbootstrap.com/
+[CSS3]: https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat
+[CSS3-url]: https://www.w3schools.com/css/
+[HTML5]: https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat
+[HTML5-url]: https://www.w3schools.com/html/
+[XAMPP]: https://img.shields.io/badge/XAMPP-FB7A24?logo=xampp&logoColor=fff&style=flat
+[XAMPP-url]: https://www.apachefriends.org/
+[Wix]: https://img.shields.io/badge/Wix-0C6EFC?logo=wix&logoColor=fff&style=flat
+[Wix-url]: https://www.wix.com/
 [Lucid]: https://img.shields.io/badge/Lucid-282C33?logo=lucid&logoColor=fff&style=flat
 [Lucid-url]: https://www.lucidchart.com/pages/
 [Adobe XD]: https://img.shields.io/badge/Adobe%20XD-FF61F6?logo=adobexd&logoColor=fff&style=flat
