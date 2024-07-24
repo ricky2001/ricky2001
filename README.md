@@ -292,7 +292,7 @@ My LinkedIn - [![LinkedIn]][linkedin-url]
 
 <!-- MARKDOWN LINKS & IMAGES -->
 
-[MicrosoftOffice]: https://img.shields.io/badge/Microsoft Office-D83B01?logo=microsoft-office&logoColor=white
+[MicrosoftOffice]: https://img.shields.io/badge/MicrosoftOffice-D83B01?logo=microsoft-office&logoColor=white
 [MicrosoftOffice-url]: https://www.office.com/
 [GitHub]: https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat
 [GitHub-url]: https://github.com/
