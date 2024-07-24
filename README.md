@@ -39,20 +39,12 @@
 
 Languages and Tools I used to use.
 
-| [![Node][Node.js]][Node-url]      | Description                       | Status    |
+| [![Node][Node.js]][Node-url] | Description                       | Status    |
 |---------------|-----------------------------------|-----------|
-| [![React][React.js]][React-url]| [![Tailwind CSS][Tailwind]][Tailwind-url]      | Complete  |
-| [![Vite][Vite]][Vite-url]      | [![Firebase][Firebase]][Firebase-url]               | In progress |
-| [![Express.js][Express.js]][Express-url]      | React components                  | Not started |
+| [![React][React.js]][React-url] | [![Tailwind CSS][Tailwind]][Tailwind-url] | Complete  |
+| [![Vite][Vite]][Vite-url] | [![Firebase][Firebase]][Firebase-url] | In progress |
+| [![Express.js][Express.js]][Express-url] | React components                  | Not started |
 
-* 
-* 
-* 
-* 
-* 
-* [![OpenAI][OpenAI]][OpenAI-url]
-* [![Resend](https://img.shields.io/badge/Resend-white?style=for-the-badge&logo=data:image/png;base64,iVBORw0KG...)](https://resend.com/)
-* 
 
 
 
