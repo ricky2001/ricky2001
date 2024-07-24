@@ -39,6 +39,12 @@
 
 Languages and Tools I used to use.
 
+| Feature       | Description                       | Status    |
+|---------------|-----------------------------------|-----------|
+| Authentication| User login and registration       | Complete  |
+| Database      | MongoDB integration               | In progress |
+| Frontend      | React components                  | Not started |
+
 * [![Node][Node.js]][Node-url]
 * [![React][React.js]][React-url]
 * [![Vite][Vite]][Vite-url]
