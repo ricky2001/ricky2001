@@ -317,5 +317,5 @@ My LinkedIn - [![LinkedIn]][linkedin-url]
 [LinkedIn]:https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 [linkedin-url]:https://www.linkedin.com/in/sai-ricky-chan-3264a0288
 [Gmail]: https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
-[gmail-url]: saireacky@gmail.com
+[gmail-url]= saireacky@gmail.com
 
