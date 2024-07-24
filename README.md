@@ -6,7 +6,7 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
+      <a href="#about-me">About ME</a>
       <ul>
         <li><a href="#built-with">Built With</a></li>
       </ul>
@@ -27,8 +27,8 @@
 
 
 
-
-## About The Project
+<!-- ABOUT ME -->
+## About Me
 
   Loyalty is important with a company to make employees comfortable and happy while doing work and the interaction among employees is important too. So with the hybrid mode that employees work their job sometime in home or company, that may make the problem about loyalty with  employees less interaction among employees.With the benefit that employees in the company are rewarded for their more interactions, they are more loyalty and may be able to focus their job better and challenging the employee with a check in work so the employee can check in and get reward by collect check in stack. 
 
@@ -99,7 +99,7 @@ In backend folder, you have to create `.env` file that contain the api key from 
   RESEND_API="your resend apik key"
   ```
 
-<p align="right">(<a href="#about-the-project">back to top</a>)</p>
+<p align="right">(<a href="#about-me">back to top</a>)</p>
 
 
 
@@ -119,7 +119,7 @@ If you want to see the database, you can see on firebase.
 
 [![Firebase][Firebase]][Firebase-url] (click this to go see our firebase)
 
-<p align="right">(<a href="#about-the-project">back to top</a>)</p>
+<p align="right">(<a href="#about-me">back to top</a>)</p>
 
 
 
@@ -255,7 +255,7 @@ exports.api = functions.https.onRequest(app);
   Then wait until it finish, After you done every steps it is mean you deploy successful.
 
 
-<p align="right">(<a href="#about-the-project">back to top</a>)</p>
+<p align="right">(<a href="#about-me">back to top</a>)</p>
 
 
 
@@ -279,7 +279,7 @@ ID:6331305037 Mr. PHEERAPHOL MEKKHARACH (Chat Bot group)
 ID:6331305048 Mr. Sai Reacky (Loyalty Program group)
 
 
-<p align="right">(<a href="#about-the-project">back to top</a>)</p>
+<p align="right">(<a href="#about-me">back to top</a>)</p>
 
 
 
@@ -291,7 +291,7 @@ Email Adress - [![Gmail]][gmail-url]
 My LinkedIn - [![LinkedIn]][linkedin-url]
 
 
-<p align="right">(<a href="#about-the-project">back to top</a>)</p>
+<p align="right">(<a href="#about-me">back to top</a>)</p>
 
 
 
