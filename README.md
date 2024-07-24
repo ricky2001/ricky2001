@@ -62,6 +62,8 @@ Languages and Tools I used to use.
 
 [![JAVA][JAVA]][JAVA-url]
 
+[![JavaScript][JavaScript]][JavaScript-url]
+
 
 
 <!-- GETTING STARTED -->
@@ -306,6 +308,8 @@ My LinkedIn - [![LinkedIn]][linkedin-url]
 
 <!-- MARKDOWN LINKS & IMAGES -->
 
+[JavaScript]: https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square
+[JavaScript-url]: https://www.javascript.com/
 [JAVA-url]: https://www.java.com/en/
 [JAVA]: https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white
 [c++-url]: https://cplusplus.com/doc/tutorial/
