@@ -42,48 +42,9 @@ Languages and Tools I have been to use.
 | [![Git][Git]][Git-url] | [![GitHub][GitHub]][GitHub-url] | [![GitLab][GitLab]][GitLab-url] | [![Lucid][Lucid]][Lucid-url] | [![Adobe XD][Adobe XD]][Adobe XD-url] | [![Figma][Figma]][Figma-url] | [![C++][c++]][c++-url] |
 |---------------|--------------------|-----------|-----------|-----------|-----------|-----------|
 | [![JAVA][JAVA]][JAVA-url] | [![JavaScript][JavaScript]][JavaScript-url] | [![TypeScript][TypeScript]][TypeScript-url] | [![Python][Python]][Python-url] | [![HTML5][HTML5]][HTML5-url] | [![CSS3][CSS3]][CSS3-url] | [![Flutter][Flutter]][Flutter-url] |
-| [![Tailwind CSS][Tailwind]][Tailwind-url] | [![Vite][Vite]][Vite-url] | [![Bootstrap][Bootstrap]][Bootstrap-url] | [![React][React.js]][React-url] | [![React][React]][React-url] |  |  |
-
-
-
-[![Node][Node.js]][Node-url]
-
-
-
-[![Firebase][Firebase]][Firebase-url]
-
-[![Express.js][Express.js]][Express-url]
-
-[![NetBeans][NetBeans]][NetBeans-url]
-
-[![Eclipse][Eclipse]][Eclipse-url]
-
-[![VisualStudioCode][VisualStudioCode]][VisualStudioCode-url]
-
-[![Vuetify][Vuetify]][Vuetify-url]
-
-[![Vue.js][Vue.js]][Vue.js-url]
-
-[![Wix][Wix]][Wix-url]
-
-[![XAMPP][XAMPP]][XAMPP-url]
-
-[![Postman][Postman]][Postman-url]
-
-[![Next.js][Next.js]][Next.js-url]
-
-
-
-[![Docker][Docker]][Docker-url]
-
-[![MySQL][MySQL]][MySQL-url]
-
-[![phpMyAdmin][phpMyAdmin]][phpMyAdmin-url]
-
-[![MongoDB][MongoDB]][MongoDB-url]
-
-
-
+| [![Tailwind CSS][Tailwind]][Tailwind-url] | [![Vite][Vite]][Vite-url] | [![Bootstrap][Bootstrap]][Bootstrap-url] | [![React][React.js]][React-url] | [![Vuetify][Vuetify]][Vuetify-url] | [![Vue.js][Vue.js]][Vue.js-url] | [![Next.js][Next.js]][Next.js-url] |
+| [![Node][Node.js]][Node-url] | [![Express.js][Express.js]][Express-url] | [![XAMPP][XAMPP]][XAMPP-url] | [![Postman][Postman]][Postman-url] | [![Docker][Docker]][Docker-url] | [![Firebase][Firebase]][Firebase-url] | [![MongoDB][MongoDB]][MongoDB-url] |
+| [![MySQL][MySQL]][MySQL-url] | [![phpMyAdmin][phpMyAdmin]][phpMyAdmin-url] | [![Wix][Wix]][Wix-url] | [![NetBeans][NetBeans]][NetBeans-url] | [![Eclipse][Eclipse]][Eclipse-url] | [![VisualStudioCode][VisualStudioCode]][VisualStudioCode-url] |  |
 
 
 
