@@ -72,6 +72,8 @@ Languages and Tools I used to use.
 
 [![VisualStudioCode][VisualStudioCode]][VisualStudioCode-url]
 
+[![Vuetify][Vuetify]][Vuetify-url]
+
 
 
 <!-- GETTING STARTED -->
@@ -316,6 +318,8 @@ My LinkedIn - [![LinkedIn]][linkedin-url]
 
 <!-- MARKDOWN LINKS & IMAGES -->
 
+[Vuetify]: https://img.shields.io/badge/Vuetify-1867C0?logo=vuetify&logoColor=fff&style=flat
+[Vuetify-url]: https://vuetifyjs.com/en/
 [VisualStudioCode]: https://img.shields.io/badge/Visual%20Studio%20Code-1B6AC6?logo=apachenetbeanside&logoColor=fff&style=flat](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=plastic
 [VisualStudioCode-url]: https://code.visualstudio.com/
 [Eclipse]: https://img.shields.io/badge/Eclipse%20IDE-2C2255?logo=eclipseide&logoColor=fff&style=flat
