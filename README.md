@@ -39,8 +39,8 @@
 
 Languages and Tools I used to use.
 
-| [![Tailwind CSS][Tailwind]][Tailwind-url] | [![Tailwind CSS][Tailwind]][Tailwind-url] | [![Tailwind CSS][Tailwind]][Tailwind-url] | [![Tailwind CSS][Tailwind]][Tailwind-url] |
-|---------------|-----------------------------------|-----------|-----------|
+| [![Tailwind CSS][Tailwind]][Tailwind-url] | [![Tailwind CSS][Tailwind]][Tailwind-url] | [![Tailwind CSS][Tailwind]][Tailwind-url] | [![Tailwind CSS][Tailwind]][Tailwind-url] | [![Tailwind CSS][Tailwind]][Tailwind-url] | [![Tailwind CSS][Tailwind]][Tailwind-url] |
+|---------------|-----------------------------------|-----------|-----------|-----------|-----------|
 
 
 
