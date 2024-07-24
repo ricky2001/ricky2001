@@ -39,12 +39,24 @@
 
 Languages and Tools I used to use.
 
-| [![Node][Node.js]][Node-url] | Description                       | Status    |
+| 1 | Description                       | Status    |
 |---------------|-----------------------------------|-----------|
-| [![React][React.js]][React-url] | [![Tailwind CSS][Tailwind]][Tailwind-url] | Complete  |
-| [![Vite][Vite]][Vite-url] | [![Firebase][Firebase]][Firebase-url] | In progress |
-| [![Express.js][Express.js]][Express-url] | React components                  | Not started |
+| 2 | 3 | Complete  |
+| 4 | 5 | In progress |
+| 6 | React components                  | Not started |
 
+
+[![Node][Node.js]][Node-url]
+
+[![React][React.js]][React-url]
+
+[![Tailwind CSS][Tailwind]][Tailwind-url]
+
+[![Vite][Vite]][Vite-url]
+
+[![Firebase][Firebase]][Firebase-url]
+
+[![Express.js][Express.js]][Express-url]
 
 
 
