@@ -43,8 +43,14 @@ Languages and Tools I have been to use.
 ## Contact
 
 Email Adress - [![Gmail]][gmail-url] or 
+```sh
+  saireacky@gmail.com
+  ```
 
-My LinkedIn - [![LinkedIn]][linkedin-url]
+My LinkedIn - [![LinkedIn]][linkedin-url] or
+```sh
+  https://www.linkedin.com/in/sai-ricky-chan-3264a0288
+  ```
 
 
 <p align="right">(<a href="#hello-im-sai-ricky">back to top</a>)</p>
