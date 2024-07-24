@@ -44,7 +44,7 @@ Languages and Tools I have been to use.
 | [![JAVA][JAVA]][JAVA-url] | [![JavaScript][JavaScript]][JavaScript-url] | [![TypeScript][TypeScript]][TypeScript-url] | [![Python][Python]][Python-url] | [![HTML5][HTML5]][HTML5-url] | [![CSS3][CSS3]][CSS3-url] | [![Flutter][Flutter]][Flutter-url] |
 | [![Tailwind CSS][Tailwind]][Tailwind-url] | [![Vite][Vite]][Vite-url] | [![Bootstrap][Bootstrap]][Bootstrap-url] | [![React][React.js]][React-url] | [![Vuetify][Vuetify]][Vuetify-url] | [![Vue.js][Vue.js]][Vue.js-url] | [![Next.js][Next.js]][Next.js-url] |
 | [![Node][Node.js]][Node-url] | [![Express.js][Express.js]][Express-url] | [![XAMPP][XAMPP]][XAMPP-url] | [![Postman][Postman]][Postman-url] | [![Docker][Docker]][Docker-url] | [![Firebase][Firebase]][Firebase-url] | [![MongoDB][MongoDB]][MongoDB-url] |
-| [![MySQL][MySQL]][MySQL-url] | [![phpMyAdmin][phpMyAdmin]][phpMyAdmin-url] | [![Wix][Wix]][Wix-url] | [![NetBeans][NetBeans]][NetBeans-url] | [![Eclipse][Eclipse]][Eclipse-url] | [![VisualStudioCode][VisualStudioCode]][VisualStudioCode-url] |  |
+| [![MySQL][MySQL]][MySQL-url] | [![phpMyAdmin][phpMyAdmin]][phpMyAdmin-url] | [![Wix][Wix]][Wix-url] | [![NetBeans][NetBeans]][NetBeans-url] | [![Eclipse][Eclipse]][Eclipse-url] | [![VisualStudioCode][VisualStudioCode]][VisualStudioCode-url] | [![MicrosoftOffice][MicrosoftOffice]][MicrosoftOffice-url] |
 
 
 
@@ -292,6 +292,8 @@ My LinkedIn - [![LinkedIn]][linkedin-url]
 
 <!-- MARKDOWN LINKS & IMAGES -->
 
+[MicrosoftOffice]: https://img.shields.io/badge/Microsoft Office-D83B01?logo=microsoft-office&logoColor=white
+[MicrosoftOffice-url]: https://www.office.com/
 [GitHub]: https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat
 [GitHub-url]: https://github.com/
 [GitLab]: https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=fff&style=flat
