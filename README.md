@@ -39,7 +39,7 @@
 
 Languages and Tools I have been to use.
 
-| [![Git][Git]][Git-url] | [![Tailwind CSS][Tailwind]][Tailwind-url] | [![Tailwind CSS][Tailwind]][Tailwind-url] | [![Tailwind CSS][Tailwind]][Tailwind-url] | [![Tailwind CSS][Tailwind]][Tailwind-url] | [![Tailwind CSS][Tailwind]][Tailwind-url] |
+| [![Git][Git]][Git-url] | [![GitHub][GitHub]][GitHub-url] | [![GitLab][GitLab]][GitLab-url] | [![Tailwind CSS][Tailwind]][Tailwind-url] | [![Tailwind CSS][Tailwind]][Tailwind-url] | [![Tailwind CSS][Tailwind]][Tailwind-url] |
 |---------------|-----------------------------------|-----------|-----------|-----------|-----------|
 
 
@@ -110,9 +110,9 @@ Languages and Tools I have been to use.
 
 
 
-[![GitLab][GitLab]][GitLab-url]
 
-[![GitHub][GitHub]][GitHub-url]
+
+
 
 
 
