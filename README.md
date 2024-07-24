@@ -64,6 +64,8 @@ Languages and Tools I used to use.
 
 [![JavaScript][JavaScript]][JavaScript-url]
 
+[![TypeScript][TypeScript]][TypeScript-url]
+
 
 
 <!-- GETTING STARTED -->
@@ -308,6 +310,8 @@ My LinkedIn - [![LinkedIn]][linkedin-url]
 
 <!-- MARKDOWN LINKS & IMAGES -->
 
+[TypeScript]: https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square
+[TypeScript-url]: https://www.typescriptlang.org/
 [JavaScript]: https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square
 [JavaScript-url]: https://www.javascript.com/
 [JAVA-url]: https://www.java.com/en/
