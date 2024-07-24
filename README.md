@@ -32,8 +32,7 @@
 <!-- ABOUT ME -->
 ## About Me
 
-  I am Mr. Sai Reacky. I am from Myanmar and I fresh graduate of Computer Science, Major SOFTWARE ENGINEER, School of Information Technology from Mae Fah Luang University( M.1 333 Tha Sut, Mueang
-Chiang Rai District, ChiangRai, Thailand).
+  I am Mr. Sai Reacky. I am from Myanmar and I fresh graduate of Computer Science, Major SOFTWARE ENGINEER, School of Information Technology from<a href="#hello-im-sai-ricky">Mae Fah Luang University</a>.
 
   Due to the HR side within the company, ATA IT Limited has gathered problems or things that are quite common, such as Responding to inquiries from employees within the company Typically, employees ask to repeat questions. and quite often asked from multiple employees or departments and following news within the company that is not thorough or may be delayed This, therefore, creates a reflection of the opinions of HR. And giving suggestions to employees within the company is the preparation of ATA HR: Chatbot, where the main issue is to answer questions employees ask about the company. We can collect the secondary issue to update news within the company, such as event content. Contents of meetings, etc., as well as internal policies We decided to solve the problem by creating an application that will allow employees of ATA IT Limited and the HR department. Both parties can use it and it is also easy to access. 
 
