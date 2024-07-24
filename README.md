@@ -39,8 +39,9 @@
 
 Languages and Tools I have been to use.
 
-| [![Git][Git]][Git-url] | [![GitHub][GitHub]][GitHub-url] | [![GitLab][GitLab]][GitLab-url] | [![Lucid][Lucid]][Lucid-url] | [![Adobe XD][Adobe XD]][Adobe XD-url] | [![Figma][Figma]][Figma-url] | [![C++][c++]][c++-url] | [![JAVA][JAVA]][JAVA-url] |
-|---------------|-----------------------------------|-----------|-----------|-----------|-----------|-----------|-----------|
+| [![Git][Git]][Git-url] | [![GitHub][GitHub]][GitHub-url] | [![GitLab][GitLab]][GitLab-url] | [![Lucid][Lucid]][Lucid-url] | [![Adobe XD][Adobe XD]][Adobe XD-url] | [![Figma][Figma]][Figma-url] | [![C++][c++]][c++-url] |
+|---------------|--------------------|-----------|-----------|-----------|-----------|-----------|
+| [![JAVA][JAVA]][JAVA-url] | [![JavaScript][JavaScript]][JavaScript-url] | [![TypeScript][TypeScript]][TypeScript-url] | [![Python][Python]][Python-url] | [![HTML5][HTML5]][HTML5-url] | [![CSS3][CSS3]][CSS3-url] | [![Flutter][Flutter]][Flutter-url] |
 
 
 
@@ -56,14 +57,6 @@ Languages and Tools I have been to use.
 
 [![Express.js][Express.js]][Express-url]
 
-
-
-
-
-[![JavaScript][JavaScript]][JavaScript-url]
-
-[![TypeScript][TypeScript]][TypeScript-url]
-
 [![NetBeans][NetBeans]][NetBeans-url]
 
 [![Eclipse][Eclipse]][Eclipse-url]
@@ -74,19 +67,9 @@ Languages and Tools I have been to use.
 
 [![Vue.js][Vue.js]][Vue.js-url]
 
-
-
-
-
-
-
 [![Wix][Wix]][Wix-url]
 
 [![XAMPP][XAMPP]][XAMPP-url]
-
-[![HTML5][HTML5]][HTML5-url]
-
-[![CSS3][CSS3]][CSS3-url]
 
 [![Bootstrap][Bootstrap]][Bootstrap-url]
 
@@ -96,10 +79,6 @@ Languages and Tools I have been to use.
 
 [![React][React]][React-url]
 
-[![Flutter][Flutter]][Flutter-url]
-
-[![Python][Python]][Python-url]
-
 [![Docker][Docker]][Docker-url]
 
 [![MySQL][MySQL]][MySQL-url]
@@ -107,9 +86,6 @@ Languages and Tools I have been to use.
 [![phpMyAdmin][phpMyAdmin]][phpMyAdmin-url]
 
 [![MongoDB][MongoDB]][MongoDB-url]
-
-
-
 
 
 
