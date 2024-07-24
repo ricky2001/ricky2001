@@ -1,6 +1,6 @@
-- 👋 Hi, I’m ricky
+- 👋 Hi, I’m Sai Ricky
 - 👀 I’m interested in Dev.
-- 🌱 I’m currently learning SE
+- 🌱 I’m currently fresh graduate of SE
 - 📫 How to reach me linkid: www.linkedin.com/in/sai-ricky-chan-3264a0288, saireacky@gmail.com
 
 <details>
@@ -289,7 +289,7 @@ ID:6331305048 Mr. Sai Reacky (Loyalty Program group)
 
 Email Adress - 6331305007@lamduan.mfu.ac.th - 6331305023@lamduan.mfu.ac.th
 
-Project Link: [https://github.com/ricky2001/SP_2023_loyaltychat0.3.git](https://github.com/ricky2001/SP_2023_loyaltychat0.3.git)
+linkid: [www.linkedin.com/in/sai-ricky-chan-3264a0288](www.linkedin.com/in/sai-ricky-chan-3264a0288)
 
 <p align="right">(<a href="#about-the-project">back to top</a>)</p>
 
