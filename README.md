@@ -94,6 +94,12 @@ Languages and Tools I have been to use.
 
 [![Next.js][Next.js]][Next.js-url]
 
+[![React][React]][React-url]
+
+[![Flutter][Flutter]][Flutter-url]
+
+[![Python][Python]][Python-url]
+
 
 
 
@@ -340,6 +346,12 @@ My LinkedIn - [![LinkedIn]][linkedin-url]
 
 <!-- MARKDOWN LINKS & IMAGES -->
 
+[Python]: https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat
+[Python-url]: https://www.python.org/
+[Flutter]: https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff&style=flat
+[Flutter-url]: https://flutter.dev/
+[React]: https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat
+[React-url]: https://react.dev/
 [Next.js]: https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=flat
 [Next.js-url]:https://nextjs.org/
 [Postman]: https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=fff&style=flat
