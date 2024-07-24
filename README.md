@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sai Ricky
+###👋 Hi, I’m Sai Ricky
 - 👀 I’m interested in Dev.
 - 🌱 I’m currently fresh graduate of SE
 
