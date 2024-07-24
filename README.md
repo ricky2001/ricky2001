@@ -39,7 +39,7 @@
 
 Languages and Tools I have been to use.
 
-| [![Git][Git]][Git-url] | [![GitHub][GitHub]][GitHub-url] | [![GitLab][GitLab]][GitLab-url] | [![Tailwind CSS][Tailwind]][Tailwind-url] | [![Tailwind CSS][Tailwind]][Tailwind-url] | [![Tailwind CSS][Tailwind]][Tailwind-url] |
+| [![Git][Git]][Git-url] | [![GitHub][GitHub]][GitHub-url] | [![GitLab][GitLab]][GitLab-url] | [![Lucid][Lucid]][Lucid-url] | [![Adobe XD][Adobe XD]][Adobe XD-url] | [![Figma][Figma]][Figma-url] |
 |---------------|-----------------------------------|-----------|-----------|-----------|-----------|
 
 
@@ -74,11 +74,11 @@ Languages and Tools I have been to use.
 
 [![Vue.js][Vue.js]][Vue.js-url]
 
-[![Figma][Figma]][Figma-url]
 
-[![Adobe XD][Adobe XD]][Adobe XD-url]
 
-[![Lucid][Lucid]][Lucid-url]
+
+
+
 
 [![Wix][Wix]][Wix-url]
 
