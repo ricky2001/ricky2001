@@ -1,7 +1,7 @@
 # Hello👋, I’m Sai Ricky
 - 👀 I’m interested in Dev.
 - 🌱 I’m currently fresh graduate
-  
+
   Welcome to my GitHub profile! I'm a front-end developer from Myanmar. My academic background has equipped me with a solid understanding of modern web technologies and good practices in front-end development. I am passionate about creating visually appealing and highly functional user interfaces. My attention to detail and commitment to delivering high-quality code ensure that I can contribute effectively to your development team. Additionally, my ability to quickly adapt to new technologies and teamwork.
 
 <details>
