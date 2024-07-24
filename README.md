@@ -313,5 +313,6 @@ Email Adress - 6331305007@lamduan.mfu.ac.th - 6331305023@lamduan.mfu.ac.th
 [OpenAI-url]: https://openai.com/
 [Firebase]: https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black
 [Firebase-url]: https://console.firebase.google.com/u/1/project/loyalty-e5fdd/overview
+[LinkedIn]:https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 [linkedin-url]:www.linkedin.com/in/sai-ricky-chan-3264a0288
 
