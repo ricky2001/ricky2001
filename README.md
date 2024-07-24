@@ -39,8 +39,8 @@
 
 Languages and Tools I have been to use.
 
-| [![Git][Git]][Git-url] | [![GitHub][GitHub]][GitHub-url] | [![GitLab][GitLab]][GitLab-url] | [![Lucid][Lucid]][Lucid-url] | [![Adobe XD][Adobe XD]][Adobe XD-url] | [![Figma][Figma]][Figma-url] |
-|---------------|-----------------------------------|-----------|-----------|-----------|-----------|
+| [![Git][Git]][Git-url] | [![GitHub][GitHub]][GitHub-url] | [![GitLab][GitLab]][GitLab-url] | [![Lucid][Lucid]][Lucid-url] | [![Adobe XD][Adobe XD]][Adobe XD-url] | [![Figma][Figma]][Figma-url] | [![C++][c++]][c++-url] | [![JAVA][JAVA]][JAVA-url] |
+|---------------|-----------------------------------|-----------|-----------|-----------|-----------|-----------|-----------|
 
 
 
@@ -56,9 +56,9 @@ Languages and Tools I have been to use.
 
 [![Express.js][Express.js]][Express-url]
 
-[![C++][c++]][c++-url]
 
-[![JAVA][JAVA]][JAVA-url]
+
+
 
 [![JavaScript][JavaScript]][JavaScript-url]
 
