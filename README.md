@@ -76,6 +76,12 @@ Languages and Tools I used to use.
 
 [![Vue.js][Vue.js]][Vue.js-url]
 
+[![Figma][Figma]][Figma-url]
+
+[![Adobe XD][Adobe XD]][Adobe XD-url]
+
+[![Lucid][Lucid]][Lucid-url]
+
 
 
 <!-- GETTING STARTED -->
@@ -320,6 +326,12 @@ My LinkedIn - [![LinkedIn]][linkedin-url]
 
 <!-- MARKDOWN LINKS & IMAGES -->
 
+[Lucid]: https://img.shields.io/badge/Lucid-282C33?logo=lucid&logoColor=fff&style=flat
+[Lucid-url]: https://www.lucidchart.com/pages/
+[Adobe XD]: https://img.shields.io/badge/Adobe%20XD-FF61F6?logo=adobexd&logoColor=fff&style=flat
+[Adobe XD-url]: https://adobexdplatform.com/
+[Figma]: https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff&style=flat
+[Figma-url]: https://www.figma.com/
 [Vue.js]: https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff&style=flat
 [Vue.js-url]: https://vuejs.org/
 [Vuetify]: https://img.shields.io/badge/Vuetify-1867C0?logo=vuetify&logoColor=fff&style=flat
