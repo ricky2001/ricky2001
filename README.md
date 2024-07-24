@@ -1,4 +1,4 @@
-## 👋 Hi, I’m Sai Ricky
+## Hello👋, I’m Sai Ricky
 - 👀 I’m interested in Dev.
 - 🌱 I’m currently fresh graduate of SE
 
@@ -100,7 +100,7 @@ In backend folder, you have to create `.env` file that contain the api key from 
   RESEND_API="your resend apik key"
   ```
 
-<p align="right">(<a href="#hi,-i’m-sai-ricky">back to top</a>)</p>
+<p align="right">(<a href="#hi">back to top</a>)</p>
 
 
 
