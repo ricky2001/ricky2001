@@ -290,6 +290,8 @@ ID:6331305048 Mr. Sai Reacky (Loyalty Program group)
 Email Adress - [![Gmail]](saireacky@gmail.com)
 My LinkedIn - [![LinkedIn]][linkedin-url]
 
+<mailto:saireacky@gmail.com>
+
 <p align="right">(<a href="#about-the-project">back to top</a>)</p>
 
 
