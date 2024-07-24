@@ -58,7 +58,7 @@ Languages and Tools I used to use.
 
 [![Express.js][Express.js]][Express-url]
 
-[![c++][c++]][c++-url]
+[![C++][c++]][c++-url]
 
 [![JAVA][JAVA]][JAVA-url]
 
