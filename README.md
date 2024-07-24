@@ -70,6 +70,8 @@ Languages and Tools I used to use.
 
 [![Eclipse][Eclipse]][Eclipse-url]
 
+[![VisualStudioCode][VisualStudioCode]][VisualStudioCode-url]
+
 
 
 <!-- GETTING STARTED -->
@@ -314,6 +316,8 @@ My LinkedIn - [![LinkedIn]][linkedin-url]
 
 <!-- MARKDOWN LINKS & IMAGES -->
 
+[VisualStudioCode]: https://img.shields.io/badge/Visual%20Studio%20Code-1B6AC6?logo=apachenetbeanside&logoColor=fff&style=flat](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=plastic
+[VisualStudioCode-url]: https://code.visualstudio.com/
 [Eclipse]: https://img.shields.io/badge/Eclipse%20IDE-2C2255?logo=eclipseide&logoColor=fff&style=flat
 [Eclipse-url]: https://eclipseide.org/
 [NetBeans]: https://img.shields.io/badge/Apache%20NetBeans%20IDE-1B6AC6?logo=apachenetbeanside&logoColor=fff&style=flat
