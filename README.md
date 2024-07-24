@@ -58,6 +58,8 @@ Languages and Tools I used to use.
 
 [![Express.js][Express.js]][Express-url]
 
+[![c++][c++]][c++-url]
+
 
 
 <!-- GETTING STARTED -->
@@ -301,8 +303,9 @@ My LinkedIn - [![LinkedIn]][linkedin-url]
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
+[c++-url]: https://cplusplus.com/doc/tutorial/
+[c++]: https://img.shields.io/badge/-C++-blue?logo=cplusplus
 [Node.js]: https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white
 [Node-url]: https://nodejs.org/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
@@ -313,8 +316,6 @@ My LinkedIn - [![LinkedIn]][linkedin-url]
 [Express-url]: https://expressjs.com/
 [Tailwind]: https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white
 [Tailwind-url]: https://tailwindcss.com/
-[OpenAI]: https://img.shields.io/badge/OpenAI-0082C8?style=for-the-badge&logo=openai&logoColor=white
-[OpenAI-url]: https://openai.com/
 [Firebase]: https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black
 [Firebase-url]: https://console.firebase.google.com/u/1/project/loyalty-e5fdd/overview
 [LinkedIn]:https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
