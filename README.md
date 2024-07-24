@@ -60,7 +60,7 @@ Languages and Tools I used to use.
 
 [![c++][c++]][c++-url]
 
-[![java][JAVA]][java-url]
+[![JAVA][java]][java-url]
 
 
 
