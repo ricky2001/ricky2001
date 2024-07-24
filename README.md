@@ -100,6 +100,14 @@ Languages and Tools I have been to use.
 
 [![Python][Python]][Python-url]
 
+[![Docker][Docker]][Docker-url]
+
+[![MySQL][MySQL]][MySQL-url]
+
+[![phpMyAdmin][phpMyAdmin]][phpMyAdmin-url]
+
+[![MongoDB][MongoDB]][MongoDB-url]
+
 
 
 
@@ -346,6 +354,14 @@ My LinkedIn - [![LinkedIn]][linkedin-url]
 
 <!-- MARKDOWN LINKS & IMAGES -->
 
+[MongoDB]: https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=flat
+[MongoDB-url]: https://www.mongodb.com/
+[phpMyAdmin]: https://img.shields.io/badge/phpMyAdmin-6C78AF?logo=phpmyadmin&logoColor=fff&style=flat
+[phpMyAdmin-url]: https://www.phpmyadmin.net/
+[MySQL]: https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=flat
+[MySQL-url]: https://www.mysql.com/
+[Docker]: https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=flat
+[Docker-url]: https://www.docker.com/
 [Python]: https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat
 [Python-url]: https://www.python.org/
 [Flutter]: https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff&style=flat
