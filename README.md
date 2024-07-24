@@ -37,7 +37,7 @@
 
 ### 💻 Languages and Tools:
 
-Languages and Tools I used to use.
+Languages and Tools I have been to use.
 
 | [![Tailwind CSS][Tailwind]][Tailwind-url] | [![Tailwind CSS][Tailwind]][Tailwind-url] | [![Tailwind CSS][Tailwind]][Tailwind-url] | [![Tailwind CSS][Tailwind]][Tailwind-url] | [![Tailwind CSS][Tailwind]][Tailwind-url] | [![Tailwind CSS][Tailwind]][Tailwind-url] |
 |---------------|-----------------------------------|-----------|-----------|-----------|-----------|
@@ -89,6 +89,12 @@ Languages and Tools I used to use.
 [![CSS3][CSS3]][CSS3-url]
 
 [![Bootstrap][Bootstrap]][Bootstrap-url]
+
+[![Postman][Postman]][Postman-url]
+
+[![Next.js][Next.js]][Next.js-url]
+
+
 
 
 
@@ -334,6 +340,10 @@ My LinkedIn - [![LinkedIn]][linkedin-url]
 
 <!-- MARKDOWN LINKS & IMAGES -->
 
+[Next.js]: https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=flat
+[Next.js-url]:https://nextjs.org/
+[Postman]: https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=fff&style=flat
+[Postman-url]: https://www.postman.com/
 [Bootstrap]: https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff&style=flat
 [Bootstrap-url]: https://getbootstrap.com/
 [CSS3]: https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat
