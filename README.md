@@ -108,6 +108,12 @@ Languages and Tools I have been to use.
 
 [![MongoDB][MongoDB]][MongoDB-url]
 
+[![Git][Git]][Git-url]
+
+[![GitLab][GitLab]][GitLab-url]
+
+[![GitHub][GitHub]][GitHub-url]
+
 
 
 
@@ -354,6 +360,12 @@ My LinkedIn - [![LinkedIn]][linkedin-url]
 
 <!-- MARKDOWN LINKS & IMAGES -->
 
+[GitHub]: https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat
+[GitHub-url]: https://github.com/
+[GitLab]: https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=fff&style=flat
+[GitLab-url]: https://about.gitlab.com/
+[Git]: https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=flat
+[Git-url]: https://git-scm.com/
 [MongoDB]: https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=flat
 [MongoDB-url]: https://www.mongodb.com/
 [phpMyAdmin]: https://img.shields.io/badge/phpMyAdmin-6C78AF?logo=phpmyadmin&logoColor=fff&style=flat
