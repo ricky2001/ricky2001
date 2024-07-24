@@ -45,13 +45,16 @@ Languages and Tools I have been to use.
 Email Adress - [![Gmail]][gmail-url] 
 
 or 
+
 ```sh
   saireacky@gmail.com
   ```
 
+
 My LinkedIn - [![LinkedIn]][linkedin-url] 
 
 or
+
 ```sh
   https://www.linkedin.com/in/sai-ricky-chan-3264a0288
   ```
