@@ -42,16 +42,13 @@ Languages and Tools I have been to use.
 | [![Git][Git]][Git-url] | [![GitHub][GitHub]][GitHub-url] | [![GitLab][GitLab]][GitLab-url] | [![Lucid][Lucid]][Lucid-url] | [![Adobe XD][Adobe XD]][Adobe XD-url] | [![Figma][Figma]][Figma-url] | [![C++][c++]][c++-url] |
 |---------------|--------------------|-----------|-----------|-----------|-----------|-----------|
 | [![JAVA][JAVA]][JAVA-url] | [![JavaScript][JavaScript]][JavaScript-url] | [![TypeScript][TypeScript]][TypeScript-url] | [![Python][Python]][Python-url] | [![HTML5][HTML5]][HTML5-url] | [![CSS3][CSS3]][CSS3-url] | [![Flutter][Flutter]][Flutter-url] |
+| [![Tailwind CSS][Tailwind]][Tailwind-url] | [![Vite][Vite]][Vite-url] | [![Bootstrap][Bootstrap]][Bootstrap-url] | [![React][React.js]][React-url] | [![React][React]][React-url] |  |  |
 
 
 
 [![Node][Node.js]][Node-url]
 
-[![React][React.js]][React-url]
 
-[![Tailwind CSS][Tailwind]][Tailwind-url]
-
-[![Vite][Vite]][Vite-url]
 
 [![Firebase][Firebase]][Firebase-url]
 
@@ -71,13 +68,11 @@ Languages and Tools I have been to use.
 
 [![XAMPP][XAMPP]][XAMPP-url]
 
-[![Bootstrap][Bootstrap]][Bootstrap-url]
-
 [![Postman][Postman]][Postman-url]
 
 [![Next.js][Next.js]][Next.js-url]
 
-[![React][React]][React-url]
+
 
 [![Docker][Docker]][Docker-url]
 
