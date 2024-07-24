@@ -39,11 +39,9 @@
 
 Languages and Tools I used to use.
 
-| [![Tailwind CSS][Tailwind]][Tailwind-url] | [![Tailwind CSS][Tailwind]][Tailwind-url] | [![Tailwind CSS][Tailwind]][Tailwind-url] |
-|---------------|-----------------------------------|-----------|
-| 2 | 3 | Complete  |
-| 4 | 5 | In progress |
-| 6 | React components                  | Not started |
+| [![Tailwind CSS][Tailwind]][Tailwind-url] | [![Tailwind CSS][Tailwind]][Tailwind-url] | [![Tailwind CSS][Tailwind]][Tailwind-url] | [![Tailwind CSS][Tailwind]][Tailwind-url] |
+|---------------|-----------------------------------|-----------|-----------|
+
 
 
 [![Node][Node.js]][Node-url]
