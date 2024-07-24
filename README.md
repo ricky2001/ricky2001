@@ -37,7 +37,7 @@
 
 ### 💻 Languages and Tools:
 
-This project used framework Reactjs + Vite and used Nodejs with Express.js.
+Languages and Tools I used to use.
 
 * [![Node][Node.js]][Node-url]
 * [![React][React.js]][React-url]
